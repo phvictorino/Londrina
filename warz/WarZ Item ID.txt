@@ -1,0 +1,312 @@
+
+
+Armor:
+20015 - Custom Guerilla - Custom Guerilla
+20054 - IBA Sand - IBA Sand
+20056 - MTV Forest - MTV Forest
+20057 - Heavy Armor - Heavy Armor
+20058 - Night Digital - Night Digital
+20059 - Light Gear Forest - Light Gear Forest
+20060 - Light Urban - Light Urban
+20061 - Medium Desert - Medium Desert
+20062 - Medium Woodland - Medium Woodland 
+20063 - MTV Desert - MTV Desert
+20064 - MTV Milgreen - MTV Milgreen
+20065 - MTV Sand - MTV Sand
+20066 - Ghillie Suit - Ghillie Suit
+
+------------------------------------
+
+Assault rifles:
+101002 - M16 - M16
+101005 - G36 - G36
+101022 - AK-74M - AK-74M
+101032 - AKM - AKM
+101040 - M4 Semi - M4 Semi
+101055 - M4 - M4
+101169 - MASADA - MASADA
+101172 - SIG SAUER 556 - SIG SAUER 556
+101173 - IMI TAR-21 - IMI TAR-21
+101193 - FN SCAR CQC - FN SCAR CQC
+101210 - FN SCAR NIGHT STALKER - FN SCAR NIGHT STALKER
+101332 - Kruger .22 Rifle - Kruger .22 Rifle
+101334 - Kruger Mini-14 - Kruger Mini-14
+101341 - Mosin Nagant
+
+------------------------------------
+
+Attachments:
+400000 - Forward Grip - Forward Grip
+400001 - 5.45 AK 30 - 5.45 AK 30
+400003 - ACOG - ACOG
+400004 - Rifle Laser - Rifle Laser
+400005 - Holographic - Holographic
+400006 - SCAR IS - SCAR IS
+400007 - Kobra - Kobra
+400008 - Tactical Sniper Scope - Tactical Sniper Scope
+400009 - SMG Grip - SMG Grip
+400010 - STANAG 60 - STANAG 60
+400012 - Flash Hider - Flash Hider
+400013 - Silencer - Silencer 
+400015 - STANAG 45 - STANAG 45
+400016 - STANAG 30 - STANAG 30
+400017 - STANAG C-Mag - STANAG C-Mag
+400018 - Rifle Flashlight - Rifle Flashlight
+400019 - Compact Scope - Compact Scope
+400020 - Red Dot SP - Red Dot SP
+400021 - Pistol laser - Pistol laser
+400022 - Pistol Flashlight - Pistol Flashlight
+400023 - Reflex Sight - Reflex Sight
+400024 - M4 IS - M4 IS
+400025 - SIG 556 IS - SIG 556 IS
+400026 - MP7 IS - MP7 IS
+400027 - PSO-1 - PSO-1
+400029 - G36 ammo - G36 ammo
+400030 - VSS-20 - VSS-20
+400031 - VSS-10 - VSS-10
+400032 - MP7 40 - MP7 40
+400033 - MP7 30 - MP7 30
+400034 - 9x19 Para Mag - 9x19 Para Mag
+400035 - M249 IS - M249 IS
+400036 - KT IS - KT IS
+400038 - Blackwater Long Range - Blackwater Long Range
+400039 - Swiss Arms Scope 8x - Swiss Arms Scope 8x
+400040 - Iron AK74M - Iron AK74M
+400042 - Iron G36 - Iron G36
+400043 - AWM .338 Magnum ammo - AWM .338 Magnum ammo
+400046 - P90 50 rounds - P90 50 rounds
+400047 - Bizon 64 ammo - Bizon 64 ammo
+400048 - SVD ammo - SVD ammo
+400049 - CZ Scorpion EVO-3 ammo - CZ Scorpion EVO-3 ammo
+400050 - AA-12 Drum - AA-12 Drum
+400051 - EVO-3 IS - EVO-3 IS
+400052 - Bizon IS - Bizon IS
+400053 - USS-12 IS - USS-12 IS
+400054 - P90 IS - P90 IS
+400055 - Pecheneg IS - Pecheneg IS
+400056 - PKM IS - PKM IS
+400058 - SIG516 IS - SIG516 IS
+400059 - TAR21 IS - TAR21 IS
+400060 - RPK IS - RPK IS
+400061 - RPO IS - RPO IS
+400062 - AN94 IS - AN94 IS
+400065 - AT4 IS - AT4 IS
+400066 - M4 IS2 - M4 IS2
+400069 - 5.45 AK 45 - 5.45 AK 45 
+400070 - .308 Winchester Sniper rifle amm - .308 Winchester Sniper rifle amm
+400071 - 9mm Mag - 9mm Mag
+400073 - Saiga 10 ammo - Saiga 10 ammo
+400074 - standard muzzle - standard muzzle
+400079 - MP5 10mm Mag - MP5 10mm Mag
+400080 - SAIGA IS - SAIGA IS
+400081 - XA5 IS - XA5 IS
+400082 - M590 Is - M590 Is
+400083 - Veresk IS - Veresk IS
+400084 - SMG-20 ammo - SMG-20 ammo
+400085 - SMG-40 ammo - SMG-40 ammo
+400086 - Desert Eagle ammo - Desert Eagle ammo
+400087 - 5.7 FN M240 Mag - 5.7 FN M240 Mag
+400088 - SMG Grip 1 - SMG Grip 1
+400099 - G36 C-Mag - G36 C-Mag
+400100 - 5.45 AK Drum - 5.45 AK Drum
+400101 - 7.62 AKM clip - 7.62 AKM clip
+400119 - MASADA IS - MASADA IS
+400121 - USS-12 IS - USS-12 IS
+400127 - M16 IS - M16 IS
+400128 - AKM IS - AKM IS
+400129 - AKS IS - AKS IS
+400133 - .50 BMG - .50 BMG
+400134 - UZI IS - UZI IS
+400135 - .45 ACP STI Eagle Elite ammo - .45 ACP STI Eagle Elite ammo
+400136 - 12 Gauge Slug - 12 Gauge Slug
+400137 - 2x 12gauge - 2x 12gauge 
+400139 - Arrow Explosive - Arrow Explosive
+400140 - Arrow - Arrow
+400141 - Shotgun shell 2x - Shotgun shell 2x
+400142 - Shotgun shell 8x - Shotgun shell 8x
+400143 - M249 Ammo Box - M249 Ammo Box
+400144 - .22 Caliber Clip - .22 Caliber Clip
+400145 - Anaconda clip - Anaconda clip
+400146 - Large Kruger Rifle Clip - Large Kruger Rifle Clip
+400147 - Medium Kruger Rifle Clip - Medium Kruger Rifle Clip
+400148 - Stardard Kruger .22 Rifle Clip - Stardard Kruger .22 Rifle Clip
+400149 - Kruger Rifle IS - Kruger Rifle IS
+400150 - Kruger Mini-14 clip - Kruger Mini-14 clip
+400151 - Kruger Mini-14 IS - Kruger Mini-14 IS
+
+------------------------------------
+
+Backpacks:
+20175 - Medium Backpack - Medium Backpack
+20176 - Small Backpack - Small Backpack
+20179 - Large Backpack - Large Backpack
+20180 - Military Ruck - Military Ruck
+20181 - Teddy Bear backpack - Teddy Bear backpack
+20185 - ALICE Rucksack - ALICE Rucksack
+20196 - 20196_name - 20196_name
+20200 - Santa's Sack - Santa's Sack
+
+------------------------------------
+
+Consumables:
+101256 - Antibiotics - Antibiotics
+101261 - Bandages - Bandages 
+101262 - Bandages DX - Bandages DX
+101300 - Pain killers - Pain killers
+101301 - Zombie Repellent - Zombie Repellent
+101302 - C01-Vaccine - C01-Vaccine
+101303 - C04-Vaccine - C04-Vaccine
+101304 - Medkit - Medkit
+101305 - Time Capsule - Time Capsule
+101315 - Binoculars - Binoculars
+101316 - Barb wire barricade - Barb wire barricade
+101317 - Wood shield barricade - Wood shield barricade
+101318 - Riot Shield - Riot Shield
+101319 - Range Finder - Range Finder
+101323 - Air horn - Air horn
+101324 - Sandbag barricade - Sandbag barricade
+
+------------------------------------
+
+Food:
+101283 - Bag of Chips - Bag of Chips
+101284 - Bag MRE - Bag MRE
+101285 - Instant Oatmeal - Instant Oatmeal
+101288 - Chocolate Bar - Chocolate Bar
+101289 - Granola Bar - Granola Bar
+101290 - Can of Pasta - Can of Pasta
+101291 - Can of Soup - Can of Soup
+101292 - Can of Ham - Can of Ham
+101293 - Can of Tuna - Can of Tuna
+101340 - MiniSaints - MiniSaints
+
+------------------------------------
+
+Grenades:
+101310 - Frag Grenade - Frag Grenade
+101311 - Chemlight White - Chemlight White
+101312 - Flare - Flare
+101325 - Chemlight blue - Chemlight blue
+101326 - Chemlight green - Chemlight green
+101327 - Chemlight orange - Chemlight orange
+101328 - Chemlight red - Chemlight red
+101329 - Chemlight yellow - Chemlight yellow
+
+------------------------------------
+
+Helmets:
+20006 - K. Style Helmet - K. Style Helmet
+20022 - Beret Cover - Beret Cover
+20023 - Boonie Cover - Boonie Cover
+20025 - Shadow - Shadow
+20032 - Black Mask - Black Mask
+20033 - Clown Mask - Clown Mask
+20034 - Jason Mask - Jason Mask
+20035 - Skull Mask - Skull Mask
+20036 - Slash Mask - Slash Mask
+20041 - Boonie Desert - Boonie Desert
+20042 - Boonie Green - Boonie Green
+20043 - M9 helmet black - M9 helmet black
+20046 - M9 Helmet with Goggles - M9 Helmet with Goggles
+20047 - M9 Helmet Green - M9 Helmet Green
+20048 - M9 Helmet Urban - M9 Helmet Urban
+20049 - M9 Helmet Forest 1 - M9 Helmet Forest 1
+20050 - M9 Helmet Goggles 1 - M9 Helmet Goggles 1
+20067 - NVG Goggles - NVG Goggles
+20096 - Boonie Hat Leather - Boonie Hat Leather
+20097 - Fireman Helmet - Fireman Helmet
+20098 - Hard Hat - Hard Hat
+20177 - Gas Mask - Gas Mask
+20178 - Gas Mask 2 - Gas Mask 2
+20187 - Night vision military - Night vision military
+20188 - Night vision civilian - Night vision civilian
+20192 - Helloween Special! - Helloween Special!
+20197 - Christmas Special - Christmas Special
+20198 - Santa's Lil Helper - Santa's Lil Helper
+20199 - Captain Jack Frost - Captain Jack Frost
+
+------------------------------------
+
+Handguns:
+101004 - FN FiveSeven - FN FiveSeven
+101111 - B92 - B92
+101112 - B93R - B93R 
+101115 - Jericho 9mm - Jericho 9mm
+101120 - Sig Sauer P226 - Sig Sauer P226
+101180 - Desert Eagle - Desert Eagle
+101224 - STI Eagle Elite .45 ACP - STI Eagle Elite .45 ACP
+101320 - Flare Gun - Flare Gun
+101330 - Kruger .22 - Kruger .22
+101331 - Colt Anaconda - Colt Anaconda
+101342 - 1911
+
+------------------------------------
+
+Melee weapons:
+101267 - Tactical Knife - Tactical Knife
+101278 - Bat - Bat
+101306 - Flashlight - Flashlight
+101307 - Hammer - Hammer
+101308 - Hatchet - Hatchet
+101309 - Pickaxe - Pickaxe
+101313 - Spiked Bat - Spiked Bat
+101314 - Metal Bat - Metal Bat
+101335 - Kandy Kane - Kandy Kane
+101336 - Katana - Katana
+101337 - Jokoto Katana - Jokoto Katana
+101338 - Wakizashi - Wakizashi
+101339 - Machete - Machete
+
+------------------------------------
+
+Machineguns:
+101060 - PKM - PKM
+101093 - RPK-74 - RPK-74 
+101095 - FN M249 - FN M249 
+101197 - RA H23 - RA H23
+
+------------------------------------
+
+Shotguns:
+101098 - SAIGA - SAIGA
+101158 - MOSSBERG 590 - MOSSBERG 590
+101183 - KT DECIDER - KT DECIDER
+101200 - AA-12 - AA-12
+101321 - Double Barrel - Double Barrel
+
+------------------------------------
+
+Smg's:
+101035 - AKS-74U - AKS-74U
+101063 - MP7 - MP7
+101064 - UZI - UZI
+101103 - MP5/10 - MP5/10
+101106 - Honey Badger - Honey Badger
+101107 - FN P90 - FN P90 
+101108 - EVO-3 - EVO-3
+101109 - BIZON - BIZON
+101201 - VERESK SR-2 - VERESK SR-2
+101246 - FN P90 S - FN P90 S
+
+------------------------------------
+
+Snipers:
+101068 - SVD - SVD 
+101084 - VSS VINTOREZ - VSS VINTOREZ
+101085 - MAUSER SP66 - MAUSER SP66
+101087 - AW Magnum - AW Magnum
+101088 - M107 - M107
+101217 - MAUSER SRG DESERT - MAUSER SRG DESERT
+101247 - BLASER R93 - BLASER R93
+101322 - Compound Crossbow - Compound Crossbow
+
+------------------------------------
+
+Water:
+101286 - Coconut Water - Coconut Water
+101294 - Energy drink - Energy drink
+101295 - Electro-AID - Electro-AID
+101296 - Can of soda - Can of soda
+101297 - Juice - Juice
+101298 - Water 1L - Water 1L
+101299 - Water 375ml - Water 375ml
